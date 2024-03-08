@@ -12,5 +12,5 @@ Este é um jogo simples que consulta a API do IBGE para exibir informações de 
 6. Um histórico das respostas corretas é mantido e exibido no final do jogo.
 
 ## Possíveis Melhorias Futuras
-- Integrar a aplicação com o framework Flask para exibir em um site.
 - Armazenar o histórico de jogo em um arquivo txt.
+- Integrar a aplicação com o framework Flask para exibir em um site.
